@@ -6,7 +6,7 @@ A breakdown of pictomancer courtesy of Lilisu Lisu @ Jenova
 **Pictomancer Basic Guide for Level 80:**
 So I sort of just pieced this together based on what I saw, felt, and read from other guides and other people.
 
-**123 Combo**
+**123 Combo** <br>
 Picto's 123 combo begins with Fire in Red and cycles through two other spells as Aetherhue stacks accumulate. You get Aetherhue 1, then Aetherhue 2, then it disappears and you cast Fire in Red again. This is the filler.
 
 **Subtractive Palette**
