@@ -1,9 +1,13 @@
 # pictomancer_ffxiv
 A breakdown of pictomancer courtesy of Lilisu Lisu @ Jenova
-
+<br>
+<br>
+**THIS GUIDE INTENDED TO BE USED UP TO LEVEL 80 ONLY AND DOES NOT FACTOR IN ANYTHING BEYOND LEVEL 80
+<br>
+<br>
 ***This Guide created by Lilisu Lisu@Jenova, I just formatted it and posted it. All thanks should be directed to her.***
 
-**Pictomancer Basic Guide for Level 80:**
+**Pictomancer Basic Guide for Level 80:** <br>
 So I sort of just pieced this together based on what I saw, felt, and read from other guides and other people.
 
 **123 Combo** <br>
